@@ -1,0 +1,2 @@
+model_checkpoint_path: "Fusion_model.model-19"
+all_model_checkpoint_paths: "Fusion_model.model-19"
