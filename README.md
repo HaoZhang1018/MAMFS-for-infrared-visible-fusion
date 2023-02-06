@@ -24,6 +24,6 @@ Run "CUDA_VISIBLE_DEVICES=X python train_Fusion.py" to train the proposed featur
 
 
 #### To test :<br>
-, and run "CUDA_VISIBLE_DEVICES=X python demo.py" to test the trained model.
+Run "CUDA_VISIBLE_DEVICES=X python demo.py" to test the trained model.
 You can also directly use the trained model we provide.
 
