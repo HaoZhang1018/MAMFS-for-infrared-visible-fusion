@@ -8,6 +8,8 @@ Code of Infrared and Visible Image Fusion Based on Multiclassification Adversari
   author={张浩 and 马佳义 and 樊凡 and 黄珺 and 马泳},
   journal={计算机研究与发展},
   volume={60},
+  number={3},
+  pages={690--704},
   year={2023}
 }
 ````
