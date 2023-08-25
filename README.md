@@ -3,7 +3,7 @@ Code of Infrared and Visible Image Fusion Based on Multiclassification Adversari
 
 
 ````
-@article{张浩2023基于特征空间多分类对抗机制的红外与可见光图像融合,
+@article{张浩2023基于特征空间,
   title={基于特征空间多分类对抗机制的红外与可见光图像融合},
   author={张浩 and 马佳义 and 樊凡 and 黄珺 and 马泳},
   journal={计算机研究与发展},
