@@ -15,7 +15,7 @@ Code of Infrared and Visible Image Fusion Based on Multiclassification Adversari
 ````
 or
 ````
-@article{张浩2023基于特征空间,
+@article{zhang2023Infrared,
   title={Infrared and Visible Image Fusion Based on Multiclassification Adversarial Mechanism in Feature Space},
   author={Zhang, Hao and Ma, Jiayi and Fan, Fan and Huang, Jun and Ma, Yong},
   journal={Journal of Computer Research and Development},
