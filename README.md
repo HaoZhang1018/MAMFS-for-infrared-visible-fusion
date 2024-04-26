@@ -13,7 +13,18 @@ Code of Infrared and Visible Image Fusion Based on Multiclassification Adversari
   year={2023}
 }
 ````
-
+or
+````
+@article{张浩2023基于特征空间,
+  title={Infrared and Visible Image Fusion Based on Multiclassification Adversarial Mechanism in Feature Space},
+  author={Zhang, Hao and Ma, Jiayi and Fan, Fan and Huang, Jun and Ma, Yong},
+  journal={Journal of Computer Research and Development},
+  volume={60},
+  number={3},
+  pages={690--704},
+  year={2023}
+}
+````
 #### running environment :<br>
 python=2.7, tensorflow-gpu=1.9.0.
 
